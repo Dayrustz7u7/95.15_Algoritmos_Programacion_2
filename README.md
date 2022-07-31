@@ -6,13 +6,13 @@ trabajos prácticos (TP) que realice durante la cursada [Algoritmos y Programaci
 # Tipos de Datos Abstractos :classical_building:
   Cada uno de los TDA realizados en el lenguaje C (excepcion del Grafo), cuentan con sus respectivos test y estos son:
   
-- A) [Pila Dinamica](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Pila)
-- B) [Cola Enlazada](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Cola)
-- C) [Lista Enlazada](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Lista_Enlazada)
-- D) [Tabla de Hash - Cerrado](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Hash)
-- E) [Arbol Binario de Busqueda (ABB)](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20ABB)
-- F) [Heap (Cola de prioridad)](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Heap)
-- G) [Grafos (Python)](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Grafos)
+- [x] [Pila Dinamica](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Pila)
+- [x] [Cola Enlazada](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Cola)
+- [x] [Lista Enlazada](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Lista_Enlazada)
+- [x] [Tabla de Hash - Cerrado](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Hash)
+- [x] [Arbol Binario de Busqueda (ABB)](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20ABB)
+- [x] [Heap (Cola de prioridad)](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Heap)
+- [x] [Grafos (Python)](https://github.com/Dayrustz7u7/95.15_Algoritmos_Programacion_2/tree/master/Algo2%20-%20TDAS/TDA%20-%20Grafos)
 
 # Trabajos Practicos 👨‍💻​
   Estos Tps consistieron en:
